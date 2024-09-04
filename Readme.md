@@ -91,7 +91,7 @@ These metrics provide insights into how well the model predicts realized volatil
 
 ### 9. Conclusion
 
-The Optiver Realized Volatility Prediction notebook serves as a valuable resource for understanding the process of predicting financial volatility. By following the outlined steps, users can adapt the methodology to their datasets and improve their predictive modeling skills.
+The Realized Volatility Prediction notebook for Market Makers serves as a valuable resource for understanding the process of predicting financial volatility. By following the outlined steps, users can adapt the methodology to their datasets and improve their predictive modeling skills.
 
 ### 10. References
 
